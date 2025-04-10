@@ -27,5 +27,5 @@ After creating the app, take the **Client ID** and **Client Secret**, and replac
 Run:
 
 ```
-python liked2playlist.py
+python main.py
 ```
